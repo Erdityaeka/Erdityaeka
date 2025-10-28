@@ -72,7 +72,6 @@ Feel free to reach out or explore my projects. I'm open to collaboration, feedba
 </picture>
 
 ###
-
 <img src="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/snake.svg" alt="Snake animation" />
 
 ###
