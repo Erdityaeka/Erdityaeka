@@ -58,6 +58,4 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 ### 🌐 Let's Connect
 
 Feel free to reach out or explore my projects. I'm open to collaboration, feedback, and creative challenges!
-<span>
-![http://linkedin.com/in/erditya-eka-pratama/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erditya-eka-pratama/)
