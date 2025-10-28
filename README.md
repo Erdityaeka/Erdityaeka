@@ -7,6 +7,7 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 ### 🚀 Skills Overview
 
 #### 💻 Programming Languages & Frameworks
+
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -17,12 +18,14 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 </span>
 
 #### 🎨 Design Tools
+
 <span>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 </span>
 
 #### 🗄️ Database & Environment
+
 <span>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
@@ -30,6 +33,7 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 </span>
 
 #### 🔌 API & Testing
+
 <span>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </span>
@@ -37,12 +41,14 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 ---
 
 ### 📚 Currently Learning
-- Learn databases in depth 
+
+- Learn databases in depth
 - UI/UX refinement for mobile and web
 - Learn website and mobile logic flow
 - Learn JavaScript
 
 ---
+
 ### 📊 My GitHub Stats
 
 ![Erditya GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdityaeka&show_icons=true&theme=radical)
@@ -50,4 +56,8 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 ---
 
 ### 🌐 Let's Connect
+
 Feel free to reach out or explore my projects. I'm open to collaboration, feedback, and creative challenges!
+<span>
+![http://linkedin.com/in/erditya-eka-pratama/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</span>
