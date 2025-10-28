@@ -49,14 +49,24 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My Used Languages
 
-![Erditya GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdityaeka&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erdityaeka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
 ### 🌐 Let's Connect
 
 Feel free to reach out or explore my projects. I'm open to collaboration, feedback, and creative challenges!
-<br><br><br>
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erditya-eka-pratama/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/pacman-contribution-graph.svg">
+</picture>
+
+###
