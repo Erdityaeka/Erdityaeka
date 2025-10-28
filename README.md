@@ -64,17 +64,14 @@ Feel free to reach out or explore my projects. I'm open to collaboration, feedba
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erditya-eka-pratama/)
 
 ###
+<img src="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/snake.svg" alt="Snake animation" />
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-###
-<img src="https://raw.githubusercontent.com/erdityaeka/erdityaeka/output/snake.svg" alt="Snake animation" />
 
 ###
