@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Erditya Eka Pratama
 
-I'm an IT student passionate about web development, UI/UX design, and creative branding. I love solving technical problems, refining user interfaces, and building seamless user flows. Currently active in independent studies and self-development in IT and design.
+I'm an IT student passionate about web development, UI/UX design, and creative branding. I love solving technical problems, refining user interfaces, and building seamless user flows. Currently active in self-development in IT and design.
 
 ---
 
