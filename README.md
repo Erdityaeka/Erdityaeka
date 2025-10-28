@@ -43,6 +43,11 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 - Learn JavaScript
 
 ---
+### 📊 My GitHub Stats
+
+![Erditya GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdityaeka&show_icons=true&theme=radical)
+
+---
 
 ### 🌐 Let's Connect
 Feel free to reach out or explore my projects. I'm open to collaboration, feedback, and creative challenges!
