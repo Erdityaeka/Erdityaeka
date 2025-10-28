@@ -37,10 +37,10 @@ I'm an IT student passionate about web development, UI/UX design, and creative b
 ---
 
 ### 📚 Currently Learning
-- CodeIgniter 4 best practices
+- Learn databases in depth 
 - UI/UX refinement for mobile and web
-- Database relational logic and payment flow
-- Excel formulas for logic and cryptography
+- Learn website and mobile logic flow
+- Learn JavaScript
 
 ---
 
